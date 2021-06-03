@@ -1,0 +1,23 @@
+{
+  "name": "nft_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^3.3.0",
+    "truffle": "^5.1.65",
+    "truffle-flattener": "^1.5.0"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.2.3",
+    "axios": "^0.21.1",
+    "form-data": "^2.3.3",
+    "fs": "^0.0.1-security"
+  }
+}
